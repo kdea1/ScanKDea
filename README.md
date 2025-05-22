@@ -1,5 +1,5 @@
 # ScanKDea
-# 🔥 ScanKDea Pro Max - Advanced Recon Tool
+# 🔥 ScanKDea - Advanced Recon Tool
 
 ![Banner](assets/banner.png) <!-- Puedes añadir una imagen si lo deseas -->
 
