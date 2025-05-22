@@ -1,6 +1,12 @@
 # ScanKDea
 # 🔥 ScanKDea - Advanced Recon Tool
 
+![scankdea](https://github.com/user-attachments/assets/11df4e05-16cf-4dee-83ea-24ae9fda3f9a)
+
+![scankdea1](https://github.com/user-attachments/assets/8a978dc5-adbf-4b95-8e38-7e6e16fe985e)
+
+
+
 ![Banner](assets/banner.png) <!-- Puedes añadir una imagen si lo deseas -->
 
 **ScanKDea** es un escáner de seguridad avanzado en Python diseñado para profesionales de ciberseguridad y auditorías éticas. Ofrece capacidades de escaneo de puertos, detección de servicios, fingerprinting de sistemas operativos y análisis de vulnerabilidades básico.
