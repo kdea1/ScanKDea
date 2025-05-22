@@ -39,7 +39,7 @@ pip install colorama
 Clonar repositorio:
 
 bash
-git clone https://github.com/tuusuario/scankdea.git
+git clone https://github.com/kdea1/ScanKDea.git
 cd scankdea
 Ejecutar:
 
