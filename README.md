@@ -27,6 +27,7 @@
 - Estadísticas detalladas del escaneo
 - Multi-threading para escaneos rápidos
 
+
 ## 📦 Instalación
 
 1. Requisitos:
@@ -34,16 +35,20 @@
    - Recomendado: Linux/macOS (para mejores resultados)
 
 2. Instalar dependencias:
-```bash
+
+
 pip install colorama
+
 Clonar repositorio:
 
-bash
+
 git clone https://github.com/kdea1/ScanKDea.git
+
 cd scankdea
+
 Ejecutar:
 
-bash
+
 python scankdea.py --help
 🛠 Uso Básico
 bash
@@ -97,8 +102,10 @@ Cumpliendo todas las leyes locales y regulaciones aplicables
 
 RECUERDA: Siempre obtén permiso por escrito antes de realizar cualquier prueba de seguridad.
 
+
 📜 Licencia
 Este proyecto está bajo licencia MIT - ver el archivo LICENSE para más detalles.
+
 
 🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor abre un Issue o Pull Request para sugerencias y mejoras.
